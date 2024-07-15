@@ -1,0 +1,1 @@
+# Automate-Image-Tagging-with-the-Imagga-API-and-Python
